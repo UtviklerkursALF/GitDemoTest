@@ -1,0 +1,1 @@
+alert("halloen fra javascript");
